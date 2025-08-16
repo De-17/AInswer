@@ -19,7 +19,7 @@ A ChatGPT-like AI chatbot clone built using modern web technologies.
 
 ```bash
 # Clone the repository
-git clone https://github.com/omtelangpatil/AInswer.git
+git clone https://github.com/De-17/AInswer.git
 cd AInswer
 
 # Install dependencies (frontend/backend as needed)
